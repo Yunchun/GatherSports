@@ -1,0 +1,12 @@
+.msgCard {
+    display: inline-block;
+    width:20% !important;
+    margin: 20px;
+}
+.bg{
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    position: relative;
+    top: -10px
+}

@@ -1,0 +1,65 @@
+.HobbySelection {
+    text-align: center;
+    width:10%;
+    position: relative;
+    top: -38px;
+    left: 140px;
+}
+.MateSelection {
+    text-align: center;
+    width:25%;
+    position: absolute;
+    top: 900px;
+    left: 72%;
+}
+.TypeSelection {
+    text-align: center;
+    width:20%;
+    position: absolute;
+    top: 900px;
+    left: 13%;
+}
+.Header {
+    text-align: center;
+    height: 500px;
+    position: absolute;
+    top: 80px;
+    left: 750px;
+}
+.reservationcard {
+    display: inline-block;
+    width:20% !important;
+    margin: 20px;
+    position: relative;
+    top: 150px;
+    left:0px;
+}
+.courseList {
+    display: inline-block;
+    width: 60%;
+    height: 40px;
+    position: relative;
+    top: -40px;
+    left: 10%;
+}
+.courseTitle{
+    display: inline-block;
+    width: 58%;
+    position: relative;
+    top: 10px;
+    left: 5%;
+}
+.courseRating {
+    display: inline-block;
+    width: 5%;
+    position: relative;
+    top: 10px;
+    left: 50%;
+}
+.courseLink{
+    display: inline-block;
+    width: 5%;
+    position: relative;
+    top: 10px;
+    left: 57%;
+}
