@@ -1,14 +1,11 @@
-# CS411Project
+## GatherSports
 
-
-
-**分支命名规范**
-
-以名字命名自己分支：如：杨弘 Hong 瀚洋 Hanyang, 梓楠 Zinan, 韵纯: Yunchun
-
-
-
-**Commit 信息规范**
-
-名字-日子-月份缩写-该日版本数字 如：Hong-7-Oct-Version-1 代表杨弘10月7日提交的第一个版本
-
+GATHERSPORTS is an application developed for CS 411 Database System taken for my Master of Computer Science degree at UIUC. This platform is a sports experience system that connects sports mates with similar sports interests, so that people have more incentives to exercise. This application supports users to perform the following actions: 
+(a) register and login to the system
+(b) update own profile information individually
+(c) match and connect to sport mates with similar hobbies
+(d) make and delete court reservations to play sports
+(e) make and delete coach appointments to get in-person practices
+(f) enroll in interested courses
+(g) send out messages in the system
+By offering these functionalities, we hope our application can motivate people to exercise, live a healthier lifestyle, and relax themselves from pressure of work or study
