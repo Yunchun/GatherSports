@@ -12,6 +12,6 @@ GATHERSPORTS is an application developed for CS 411 Database System taken for my
 ## Tools & Programming languages
 - Database: MySQL, Google Cloud Platform
 - Backend: Java, SprintBoot
-- Frontend: React.js
+- Frontend: JavaScript, React.js
 ## Video Demo:
 https://www.youtube.com/watch?v=Xby9c__khGg&feature=youtu.be&ab_channel=YunchunPan
