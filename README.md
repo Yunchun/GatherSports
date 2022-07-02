@@ -26,7 +26,7 @@ GATHERSPORTS is an application developed for CS 411 Database System taken for my
 - Cache: Redis
 - Supported Cloud: Google Cloud Platform, Firebase
 
-# How to run
+## How to run
 
 ## Libraries
 
