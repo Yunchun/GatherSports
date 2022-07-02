@@ -5,9 +5,9 @@ https://www.youtube.com/watch?v=Xby9c__khGg&feature=youtu.be&ab_channel=YunchunP
 
 GATHERSPORTS is an application developed for CS 411 Database System taken for my Master of Computer Science degree at UIUC. This platform is a sports experience system that connects sports mates with similar sports interests, so that people have more incentives to exercise.
 
-![Image](court_reservation.png width=400px)
+<img src=court_reservation.png  width=49% />
+<img src=course_info.png  width=49% />
 
-![Image](course_info.png)
 
 ## Functionalities
 - register and login to the system
