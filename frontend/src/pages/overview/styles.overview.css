@@ -1,0 +1,46 @@
+.reservationCard {
+    display: inline-block;
+    width:20% !important;
+    margin: 20px;
+}
+
+.overviewSection {
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+
+.sportStarCard {
+    display: inline-block;
+    width: 12% !important;
+    margin: 10px;
+}
+
+.splitLine{
+    text-align: center;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+.acceptAppSection{
+    display: inline-block;
+    width: 30%;
+    position: relative;
+    top: 10px;
+    left: 290px;
+}
+.incomingAppSection{
+    display: inline-block;
+    width: 40%;
+    position: relative;
+    top: 10px;
+    left: 990px;
+}
+.redirectButtom{
+    text-align: center;
+    margin-left:5%;
+    margin-right:5%;
+    margin-top: 20px;
+}

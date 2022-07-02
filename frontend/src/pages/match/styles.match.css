@@ -1,0 +1,22 @@
+.mateCard {
+    display: inline-block;
+    width:20% !important;
+    margin: 20px;
+}
+
+.mateSection {
+    text-align: center;
+    width:99%;
+    height: 90%;
+}
+
+/* .filters {
+    background-color: black;
+} */
+
+.filters {
+    margin: 10px;
+    display: flex;
+    height: 10%;
+}
+
