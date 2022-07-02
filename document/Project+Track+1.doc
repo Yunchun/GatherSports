@@ -1,0 +1,817 @@
+Message-ID: <357777635.72023.1634338963636.JavaMail.uiuc-wiki@shuttlebus-app1.cites.illinois.edu>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_72022_1239933101.1634338963636"
+
+------=_Part_72022_1239933101.1634338963636
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Project Track 1</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Project Track 1</h1>
+    <div class=3D"Section1">
+        <h2 id=3D"ProjectTrack1-Section1:ProjectIntroduction">Section 1: Pr=
+oject Introduction</h2>
+<p>This project aims to provide an opportunity for students to apply relati=
+onal database techniques to a domain of the student=E2=80=99s choice. Stude=
+nts will be asked to create a&nbsp;relational (SQL) database-centric&nbsp;w=
+eb-based application.&nbsp;</p>
+<p>Students form teams of 4; the team formation process is outlined in the =
+next section. Students are required to complete this group work in stages. =
+We clarify the requirements for each stage in section 3. Project policies a=
+re listed in section 4. Please read the following sections carefully. Rubri=
+cs are also provided in each section. In addition, to clarify some question=
+s you might have, we will keep an updated list of Q&amp;A (grouped by stage=
+s) in section 4.</p>
+<p>It is <u><strong>strongly recommended</strong></u> that you read the <u>=
+<strong>entire</strong></u>&nbsp;document so you have an idea of what is co=
+ming up.</p>
+<h2 id=3D"ProjectTrack1-Section2:Teamformation">Section 2: Team formation</=
+h2>
+<p>Students should form teams of exactly four members (no more, no less). O=
+nly teams formed by the teaching staff may have 3 members. No team should h=
+ave more than 4 members.</p>
+<p>Students should register their teams by the stage 0 deadline by submitti=
+ng their team formation information to this&nbsp;<a href=3D"https://forms.g=
+le/s1TwgY72vsBFHF8N7" class=3D"external-link" rel=3D"nofollow">google form<=
+/a>. If students did not join a team by the stage 0 deadline, the course st=
+aff will randomly assign them to groups. The following are some team format=
+ion policies that students need to be aware of.</p>
+<ol>
+<li><p>Each team must have 4 members, no more, no less. Groups must fill up=
+ spaces if a student drops the course before the team formation time elapse=
+s.&nbsp;</p></li>
+<li><p>If you have a team of less than 4, you can still submit the&nbsp;<a =
+href=3D"https://forms.gle/s1TwgY72vsBFHF8N7" class=3D"external-link" rel=3D=
+"nofollow">google form</a>. After the stage 0 deadline, the course staff wi=
+ll fill the empty slots by randomly assigning students to your team.</p></l=
+i>
+<li><p>If you did not join a team by the Stage 0 deadline, do not worry, th=
+e course staff will randomly assign you to a team. You will receive your te=
+am information via email.&nbsp;</p></li>
+<li><p>All teams must have a team captain. The team captain acts as the mai=
+n point of contact between the team and the course staff.&nbsp;</p></li>
+<li><p>Students in the same group must all be in the same discussion sessio=
+n for group assignments. Students that do not satisfy the requirements to b=
+e in the evening session would not be granted to move to the evening sessio=
+n. However, students in the evening session are allowed to attend the morni=
+ng session. Students cannot switch between sessions during the semester unl=
+ess otherwise approved by the teaching staff. These requirements are listed=
+ on the course syllabus.</p></li>
+<li><p>Please feel free to reach out to course staff if you have any questi=
+ons.</p></li>
+</ol>
+<h2 id=3D"ProjectTrack1-Section3:StagesandRubrics(Fullmark:100%)">Section 3=
+: Stages and Rubrics (Full mark: 100%)</h2>
+<p>In this project, you will develop a relational database-centric web appl=
+ication. We will use the terms =E2=80=9Cdatabase=E2=80=9D and =E2=80=9Crela=
+tional database=E2=80=9D interchangeably in the remainder of the document.&=
+nbsp;</p>
+<p>Each project stage is&nbsp;due at 23:59 pm (CDT) on the specified due da=
+te. The submission time would be based on the wiki page update time or the =
+GitHub commit time, whichever is relevant to the task. Your group is expect=
+ed to submit each stage's required materials to your project homepage (and/=
+or Github). The details are found under each stage. Forgetting to update yo=
+ur project page with a link to the new documents will not receive a grade f=
+or that part. Please follow the submission instructions carefully.&nbsp;&nb=
+sp;</p>
+<p>Here is a high-level summary of what the stages would be:</p>
+<p><strong>Stage 0: Team Formation (2%)</strong></p>
+<p><strong>Stage 1: Project description (8%)</strong></p>
+<p><strong>Stage 2: Conceptual and Logical Database Design (15%)</strong></=
+p>
+<p><strong>Stage 3: Database design and Indexing (22%)</strong></p>
+<p><strong>Stage 4: Midterm Demo (20%)</strong></p>
+<p><strong>Stage 5: Final Demo (23%)</strong></p>
+<p><strong>Stage 6: Report and video (10%)</strong></p>
+<h2 id=3D"ProjectTrack1-Stage0:TeamFormation(2%)">Stage 0: Team Formation (=
+2%)&nbsp;</h2>
+<p>For this stage, your team is expected to set up the project page in the =
+course wiki.</p>
+<ol>
+<li><p>The team captain must submit the team formation&nbsp;<a href=3D"http=
+s://forms.gle/s1TwgY72vsBFHF8N7" class=3D"external-link" rel=3D"nofollow">g=
+oogle form</a>&nbsp;before the deadline listed. 1 point deduction would be =
+applied to the stage if the form was not submitted on time.</p></li>
+<li><p>After submitting the team formation Google form, each group must cre=
+ate its project page:</p></li>
+</ol>
+<ul>
+<li style=3D"list-style-type: none;">
+<ul>
+<li><p>Go to the&nbsp;<a href=3D"https://wiki.illinois.edu/wiki/pages/viewp=
+age.action?spaceKey=3DCS411FA21&amp;title=3DProject+Track+1+Teams" rel=3D"n=
+ofollow">Project Track 1 Teams</a>&nbsp;page.&nbsp;</p></li>
+<li><p>Login to the wiki page with your netid and password before editing t=
+he project wiki pages.</p></li>
+<li><p>Under the Teams page, Create a new page. This page is your project p=
+age. Here's a quick tutorial on how to create your team page (<a href=3D"ht=
+tps://mediaspace.illinois.edu/media/t/1_dg4a0enm" class=3D"external-link" r=
+el=3D"nofollow">https://mediaspace.illinois.edu/media/t/1_dg4a0enm</a>)</p>=
+</li>
+<li><p>You will create your project page and name it with the title "Projec=
+t X teamName" where teamName is a short and fun name for your team and X is=
+ the team number. This will be the homepage for your project.</p></li>
+<li><p>Use the template from&nbsp;<a class=3D"inline_disabled" href=3D"http=
+s://wiki.illinois.edu/wiki/display/CS411SU21/Team0" rel=3D"nofollow">Team0<=
+/a>&nbsp;for your project page.</p></li>
+<li><p>Fill in Team Name, Members (net IDs and their&nbsp;Illinois&nbsp;ema=
+ils), and Captain on your project page.</p></li>
+<li><p>Remember to save your project page.</p></li>
+<li><p>When you are done, you should see your project page added as a child=
+ page under&nbsp;<a href=3D"https://wiki.illinois.edu/wiki/pages/viewpage.a=
+ction?spaceKey=3DCS411FA21&amp;title=3DProject+Track+1+Teams" rel=3D"nofoll=
+ow">Project Teams</a>.&nbsp;</p></li>
+</ul></li>
+</ul>
+<p>The team captain is responsible to keep track of the progress of all mem=
+bers. The team captain will also coordinate work among different members. I=
+t is a great experience that teaches you how to manage a team.&nbsp;</p>
+<p><strong>Rubric:&nbsp;</strong>This stage is worth 2%. You are graded by =
+completeness. To be complete, you should have all the components listed bel=
+ow. Each missing component will result in a deduction of 0.5%, there are a =
+total of 4 components in stage 0.</p>
+<ol>
+<li><p>Project team page</p></li>
+<li><p>Project team name</p></li>
+<li><p>Complete team information</p></li>
+<li><p>Correctly linking the project team page to the main Project Teams pa=
+ge</p></li>
+</ol>
+<p><strong>Note</strong>: Teams formed by the course staff will receive a t=
+wo-day extension to stage 0.</p>
+<h2 id=3D"ProjectTrack1-Stage1:DetailedProjectDescription(8%)">Stage 1: Det=
+ailed Project Description (8%)&nbsp;</h2>
+<p>For this stage, your team is expected to develop the project idea and pr=
+ovide a detailed project description.</p>
+<ol>
+<li><p>Each group must do the following on its project page:</p></li>
+</ol>
+<ul>
+<li style=3D"list-style-type: none;">
+<ul>
+<li><p>Fill in Project Title.</p></li>
+<li><p>Fill in Project Summary.&nbsp; It should be a detailed description o=
+f what your project is.</p></li>
+<li><p>Create a page with the title "Project Description."&nbsp; Link "Proj=
+ect Description" under Documents.&nbsp; Project Description needs to includ=
+e the following:</p></li>
+</ul>
+<ul>
+<li style=3D"list-style-type: none;">
+<ul>
+<li><p>Description&nbsp;of an application of your choice. State as clearly =
+as possible what you want to do. What problem do you want to solve, etc.?</=
+p></li>
+<li><p>Usefulness. Explain as clearly as possible why your chosen applicati=
+on is useful.&nbsp; Make sure to answer the following questions: Are there =
+any similar websites/applications out there?&nbsp; If so, what are they and=
+ how is yours different?</p></li>
+<li><p>Realness.&nbsp; Describe what your data is and where you will get it=
+.</p></li>
+<li><p>Description of the functionality that your website offers. This is w=
+here you talk about what the website delivers. Talk about how a user would =
+interact with the application (i.e. things that one could create, delete, u=
+pdate, or search for) Read the requirements for stages 4 and 5 to see what =
+other functionalities you want to provide to the users.</p></li>
+<li><p>A low fidelity UI mockup:&nbsp;What do you imagine your final applic=
+ation=E2=80=99s interface might look like? A PowerPoint slide or a pencil s=
+ketch on a piece of paper works!</p></li>
+<li><p>Project work distribution:&nbsp;Who would be responsible for each of=
+ the tasks or subtasks?</p></li>
+</ul></li>
+</ul></li>
+</ul>
+<p><strong>Rubric</strong>:&nbsp;This part is worth 8%. You are graded by e=
+ffort and completeness. You should write<strong> two or more paragraphs for=
+ each component unless otherwise mentioned</strong>. Each missing component=
+ will result in a deduction of 0.75%. There are a total of 12 components in=
+ stage 1.</p>
+<ol>
+<li><p>Team page creation on the project wiki and linking to the group proj=
+ect index</p></li>
+<li><p>Title (1 line)</p></li>
+<li><p>Project Summary (3 lines)</p></li>
+<li><p>Project Detailed Description</p></li>
+<li><p>Usefulness (two components):</p>
+<ol>
+<li><p>Usefulness description</p></li>
+<li><p>Similar applications and how yours is different?</p></li>
+</ol></li>
+<li><p>Realness: How and where you=E2=80=99ll get the data?</p></li>
+<li><p>Description of the functionalities (four components):</p>
+<ol>
+<li style=3D"list-style-type: none;">
+<ol>
+<li><p>Describe what data is stored in the database. (Where is the data fro=
+m, what attributes and information would be stored?)</p></li>
+<li><p>What are the basic functions of your web application? (What cans use=
+rs of this website do? What simple and complex features are there?)</p></li=
+>
+<li><p>What would be a good creative component (function) that can improve =
+the functionality of your application? (What is something cool that you wan=
+t to include? How are you planning to achieve it?)</p></li>
+<li><p>A low fidelity UI mockup: (a sketch) of your interface (at least two=
+ images)</p></li>
+</ol></li>
+</ol></li>
+<li>Project work distribution</li>
+</ol>
+<h2 id=3D"ProjectTrack1-Stage2:ConceptualandLogicalDatabaseDesign(15%)">Sta=
+ge 2: Conceptual and Logical Database Design (15%)&nbsp;</h2>
+<p>For this stage, your team is expected to provide the conceptual design (=
+Entity-Relationship Diagram <em>or</em> UML Diagram) of the project databas=
+e.</p>
+<ol>
+<li><p>Create a child page and link to the project page with the title&nbsp=
+;</p><pre>&lt;team_id&gt;-&lt;team_name&gt;-ER Design</pre></li>
+<li><p>You should have the ER/UML diagram for your application. You also ne=
+ed to provide a description of the assumptions you make for&nbsp;each entit=
+y and relationship. For example, "we think that there must be only 1 adviso=
+r for each student".</p></li>
+<li><p>Your ER/UML diagram should satisfy the following requirements:&nbsp;=
+</p>
+<ol>
+<li><p>Your project must involve&nbsp;at least 5 entities&nbsp;with at&nbsp=
+;most&nbsp;one entity regarding user login information.&nbsp;</p></li>
+<li><p>It should involve at least two types of relationships (i.e., 1-1, 1-=
+many, and many-many).</p></li>
+</ol></li>
+<li><p>Convert your conceptual database design (ER/UML) to the logical desi=
+gn (relational schema)<br>Your relational schema should be formatted as fol=
+lows: Table-Name(Column1:Domain&nbsp;[PK], Column2:Domain&nbsp;[FK to table=
+.column], Column3:Domain,...)<br>PK: Indicates that the column is a primary=
+ key for the table<br>FK: Indicates that the column is a foreign key refere=
+ncing the primary key of table.column.<br>Domain: INT, Decimal, VARCHAR(X),=
+....</p></li>
+</ol>
+<p><strong>Rubric</strong>:&nbsp;This stage is worth 15%. You are graded by=
+ completeness and correctness. There are several ways one can represent the=
+ same application. We will evaluate the correctness of your ER/UML design b=
+y the following metrics: 1) Have you represented your application entities =
+and relationships correctly? And 2) does your ER/UML design match your appl=
+ication requirements and the assumptions you listed in the ER/UML descripti=
+on.</p>
+<ol>
+<li><p>A child page with the correct naming (+0.5%)</p></li>
+<li><p>Having a complete and correct ER/UML diagram (+6%)</p></li>
+<li><p>The ER/UML diagram has 5 or more entities (+2%)</p></li>
+<li><p>Having a complete and correctly translated relational schema (+7%)</=
+p></li>
+<li><p>Assumptions of the ER/UML diagram (-0.5% for each missing descriptio=
+n for each entity)</p></li>
+<li><p>A description of each relationship and its cardinality (-1% for each=
+ missing description)&nbsp;</p></li>
+</ol>
+<h2 id=3D"ProjectTrack1-Stage3:DatabaseImplementationandIndexing(22%)">Stag=
+e 3: Database Implementation and Indexing (22%)&nbsp;</h2>
+<h3 id=3D"ProjectTrack1-GoogleCloudPlatform(GCP):">Google Cloud Platform (G=
+CP):</h3>
+<ul>
+<li>This semester, we recommend working with MySQL cloud database hosted on=
+&nbsp;the&nbsp;<strong>Google Cloud Platform&nbsp;</strong>(MySQL@GCP).&nbs=
+p;</li>
+<li><strong>We will email you your GCP account information before this stag=
+e.&nbsp;</strong></li>
+<li><strong>We will also host project workshops to help you set up your GCP=
+ account and your MySQL@GCP database.</strong></li>
+</ul>
+<p>For this stage, your team is expected to implement the relational databa=
+se, develop advanced SQL queries, and apply indexing techniques to optimize=
+ your queries. This stage is graded as a group (not individually) and each =
+member is&nbsp;excited to contribute.</p>
+<ol>
+<li><p>Create a child page and link to the project page with the title&nbsp=
+;</p><pre>&lt;team_id&gt;-&lt;team_name&gt;-Database Design</pre></li>
+<li><p>Implement the database locally or on&nbsp;<strong>MySQL@GCP</strong>=
+. If on GCP, the database should be created in one of the team members' GCP=
+ accounts.<strong><br>Together, the team should:</strong></p>
+<ol>
+<li><p>Implement at least four main tables (i.e., tables that include core =
+application information, not auxiliary information, such as user profiles a=
+nd login information).&nbsp;</p></li>
+<li><p>In the Database Design of your project wiki, provide the Data Defini=
+tion Language (DDL) commands you all used to create each of these tables in=
+ the database. Here=E2=80=99s the syntax of the CREATE TABLE DDL command:</=
+p><pre>         CREATE TABLE table_name (column1 datatype, column2 datatype=
+, column3 datatype,...);</pre></li>
+<li><p>Insert data to these tables. You should insert at least 1000 rows in=
+ each. Try to use real data, but if you cannot find a good dataset for a pa=
+rticular table, you may use auto-generated data.&nbsp;</p></li>
+</ol></li>
+<li><p><strong>As a group</strong>&nbsp;develops two&nbsp;<strong>advanced =
+SQL</strong>&nbsp;queries related to the project that are different from on=
+e another. The two advance queries are expected to be part of your final ap=
+plication. The queries should each involve at least two of the following SQ=
+L concepts:</p></li>
+<ol>
+<li><p>Join of multiple relations</p></li>
+<li><p>Set operations</p></li>
+<li><p>Aggregation via GROUP BY</p></li>
+<li><p>Subqueries</p></li>
+</ol>
+<li><p>Execute your advanced SQL queries and provide a&nbsp;<strong>screens=
+hot of the top 15 rows</strong>&nbsp;of each query result (you can use the =
+LIMIT clause to select the top 15 rows).</p></li>
+<li><p><strong>Indexing:&nbsp;</strong>As a team, for each advanced query:<=
+/p></li>
+<ol>
+<li><p>Use the&nbsp;EXPLAIN ANALYZE&nbsp;command to measure your advanced q=
+uery performance before adding indexes.&nbsp;</p></li>
+<li><p>Explore adding different indexes to different attributes on the adva=
+nced query. For each indexing design you try, use the&nbsp;EXPLAIN ANALYZE&=
+nbsp;command to measure the query performance after adding the indexes.</p>=
+</li>
+<li><p>Report on the index design you all select and explain why you chose =
+it, referencing the analysis you performed in (ii).</p></li>
+</ol>
+</ol>
+<p><strong>Rubric:</strong>&nbsp;This stage is worth 22%. You are graded by=
+ completeness, correctness. For completeness, each justification should be =
+<strong>at least one paragraph long</strong>. The rubric is as follows:</p>
+<ol>
+<li><p>A child page under your project page with the correct naming (+0.5%)=
+</p></li>
+<li><p>Database implementation is worth 7.5% and is graded (as a group) as =
+follows:</p></li>
+<ol>
+<li><p>+3.5% for implementing the database tables locally or on GCP&nbsp;</=
+p></li>
+<li><p>+1% for providing the DDL commands for your tables.</p></li>
+<li><p>+3 % for inserting at least 1000 rows in the tables. (You should do =
+a count query to show this)</p></li>
+</ol>
+<li><p>Advanced Queries are worth 6% and are graded (as a group) as follows=
+:</p></li>
+<ol>
+<li><p>+5% for developing two advanced queries (see part c)</p></li>
+<li><p>+1% for providing screenshots with the top 15 rows of the query resu=
+lts</p></li>
+</ol>
+<li><p>Indexing Analysis is worth 8% and is graded (as a group) as follows:=
+</p></li>
+<ol>
+<li><p>+3% on trying at least three different indexing designs for each adv=
+anced query.</p></li>
+<li><p>+4% on the indexing analysis reports.</p></li>
+<li><p>+1% on the accuracy and thoroughness of the analyses.</p></li>
+</ol>
+</ol>
+<h2 id=3D"ProjectTrack1-Stage4:MidtermDemo(20%)">Stage 4: Midterm Demo (20%=
+)&nbsp;</h2>
+<p>In the previous stages, we designed all the database components for our =
+application. Now it is time to connect your database to the front-end appli=
+cation. For this stage, your team is expected to build a simple user interf=
+ace that interacts with the database you developed in Stage 3. Please note =
+that we do not grade based on how fancy your user interface is. We grade ba=
+sed on the functionality of your interface and how it connects to the datab=
+ase.</p>
+<p><strong>As a team, you should</strong>&nbsp;create a simple user interfa=
+ce that performs CRUD (Create, Read, Update, Delete) and search operations =
+on the table(s) you created in stage 3. You must implement each operation a=
+t least once (5+ operations: CRUD &amp; Search) and they can&nbsp;each be o=
+n different tables. Try to make the interfaces and operations relevant to y=
+our application! The expected functions along with their rubric are listed =
+below.&nbsp;</p>
+<ol>
+<li><p>Insert new records (rows) to the database (3%):</p></li>
+<ol>
+<li><p>0% if no interface for this operation is present</p></li>
+<li><p>+0.5% for having the code connecting the interface with the database=
+</p></li>
+<li><p>+ 1.5% for having the interface for insertion</p></li>
+<li><p>+1% for successfully inserting to the database</p></li>
+</ol>
+<li><p>Search the database using a keyword search. Your application should =
+allow the user to input their search keyword and return the result to the i=
+nterface (5%):</p></li>
+<ol>
+<li><p>0% if no interface for this operation is present</p></li>
+<li><p>+0.5% for having the code connecting the interface with the database=
+</p></li>
+<li><p>+1.5 % for having a textbox for entering the search keyword</p></li>
+<li><p>+3% for the successful execution of the query and the returning the =
+result to the interface</p></li>
+</ol>
+<li><p>Update records on the database (3%):</p></li>
+<ol>
+<li><p>0% if no interface for this operation is present</p></li>
+<li><p>+0.5% for having the code connecting the interface with the database=
+</p></li>
+<li><p>+ 1% for having the interface for update</p></li>
+<li><p>+1.5% for successfully updating the database</p></li>
+</ol>
+<li><p>Delete rows from the database (3%):</p></li>
+<ol>
+<li><p>0% if no interface for this operation is present</p></li>
+<li><p>+0.5% for having the code connecting the interface with the database=
+</p></li>
+<li><p>+ 1% for having the interface for deletion</p></li>
+<li><p>+1.5% for successfully deleting row(s) from the database</p></li>
+</ol>
+<li><p>Integrate into your application both of the advanced SQL queries you=
+ developed in stage 3. (6%):</p></li>
+<ol>
+<li><p>0% if no interface for this operation is present</p></li>
+<li><p>+0.5% for having the code connecting the interface with the database=
+</p></li>
+<li><p>+ 4% for having the interface for the advanced queries</p></li>
+<li><p>+1.5% for successfully executing the advanced queries</p></li>
+</ol>
+</ol>
+<h2 id=3D"ProjectTrack1-Stage5:FinalDemo:Puttingeverythingtogether(23%)">St=
+age 5: Final Demo: Putting everything together (23%)&nbsp;</h2>
+<p>For this stage, your team is expected to develop advanced database funct=
+ions and add a creative component to your application.&nbsp;<strong>You are=
+ expected to continue working on the same (or an improved version of the) d=
+atabase you developed in Stage 3.&nbsp;</strong>You will also use this time=
+ to complete your application interface.&nbsp;<br><strong>Your web applicat=
+ion should be designed for your users, not for the teaching staff. So, make=
+ sure that your application functionality matches your intended application=
+ description (usefulness, realness, uniqueness,...).&nbsp;</strong></p>
+<ol>
+<li><p><strong>This is group work, not individual work. The team should:&nb=
+sp;</strong></p></li>
+<ol>
+<li><p>Implement an advanced database program that is related to your appli=
+cation. An advanced database program should include transaction + trigger O=
+R a stored procedure&nbsp;+&nbsp;trigger.&nbsp;</p>
+<ol>
+<li><p>Transaction requirements: A complete and functioning transaction wit=
+h the correct and justified isolation level, involves at least three advanc=
+ed queries, involves looping and control (e.g., IF statements) structures, =
+and provides useful functionality to the application.</p></li>
+<li><p>Stored procedure requirements: A complete and functioning&nbsp;store=
+d procedure,&nbsp;involves at least three advanced queries, uses cursors, i=
+nvolves looping and control (e.g., IF statements) structures,&nbsp;provides=
+ useful functionality to the application.&nbsp;</p></li>
+<li><p>Trigger requirements:&nbsp;A complete and functioning trigger, invol=
+ves event, condition (IF statement), and action (Update, Insert or Delete),=
+&nbsp;provides useful functionality to the application.&nbsp;</p></li>
+</ol></li>
+<li><p>Integrate your advanced database program with the application.&nbsp;=
+</p></li>
+<li><p>Connect your advanced database application to the front-end.&nbsp;</=
+p></li>
+<li><p>For extra credit, the entire application should be hosted on GCP and=
+ connected to a MySQL instance on GCP.</p></li>
+</ol>
+</ol>
+<ol>
+<li><p><strong>Extra Credit (1% of the entire project grade):&nbsp;</strong=
+>We would like your team to develop a&nbsp;<strong>creative component (func=
+tion)&nbsp;</strong>that complements your project. This&nbsp;<strong>creati=
+ve function</strong>&nbsp;can use existing libraries and/or APIs. It could =
+be as simple as an interactive visualization tool, or as complex as a machi=
+ne learning recommendation system.</p></li>
+<li><p>Demo your application. Think about what is the objective of your app=
+lication? How would the user use the application? Discuss your system desig=
+n choices (index selection, transaction, advance query, creative component)=
+? Discuss future improvements or extensions.&nbsp;</p></li>
+</ol>
+<p><strong>Rubric</strong>:&nbsp;This stage is worth 23%. The entire stage =
+would be graded during the demo. You are graded by completeness and correct=
+ness. The rubric is as follows:</p>
+<ol>
+<li><p>Clear demo presentation. Arriving on time and completing the present=
+ation within the given time frame. (+1%)</p></li>
+<li><p><strong>Extra credit: </strong>The entire application is hosted on G=
+CP and connected to a MySQL database hosted on GCP. (+1% for hosting both a=
+pplication and database on GCP)&nbsp;</p></li>
+<li><p>A clear demo featuring a user's end-to-end process interacting with =
+the system that involves presenting the CRUD operations, the advanced datab=
+ase program, and the (<strong>optional</strong>) creative function (10%)</p=
+></li>
+<li><p><span>The advanced database program contains at least a sophisticate=
+d transaction+trigger or a stored procedure+trigger (+12%)</span></p>
+<ol>
+<li><p><span>If you implemented&nbsp;transaction+trigger:</span></p>
+<ol>
+<li><p><span>Transaction requirements: A complete and functioning transacti=
+on with the correct and justified isolation level (2%), involves at least t=
+hree advanced queries (2%), involves looping and control (e.g., IF statemen=
+ts) structures (2%), and provides useful functionality to the application (=
+2%).&nbsp;</span></p></li>
+<li><p><span>b. Trigger requirements:&nbsp;A complete and functioning trigg=
+er (1.5%), involves event, condition (IF statement), and action (Update, In=
+sert or Delete) (1.5%),&nbsp;provides useful functionality to the applicati=
+on (1%).</span></p></li>
+</ol></li>
+<li><p><span>If you implemented&nbsp;stored procedure+trigger:</span></p>
+<ol>
+<li><p><span>Stored procedure requirements: A complete and functioning&nbsp=
+;stored procedure (2%),&nbsp;involves at least three advanced queries (2%),=
+ uses cursors, involves looping and control (e.g., IF statements) structure=
+s (2%),&nbsp;provides useful functionality to the application (2%).&nbsp;</=
+span></p></li>
+<li><p>Trigger requirements:&nbsp;A complete and functioning trigger (1.5%)=
+, involves event, condition (IF statement), and action (Update, Insert or D=
+elete) (1.5%),&nbsp;provides useful functionality to the application (1%).<=
+/p></li>
+</ol></li>
+</ol></li>
+<li><p><span><strong>Extra</strong> </span><strong>Credit:&nbsp;</strong><s=
+pan>A functioning and interesting creative component that is relevant to yo=
+ur application (up to +2%)</span></p></li>
+<li><p><span>During the demo, the team should also discuss the following po=
+ints: (-1% for any missing point)</span></p></li>
+</ol>
+<ol>
+<li style=3D"list-style-type: none;">
+<ol>
+<li><p>Explain your choice for the advanced database program and how it is =
+suitable for your application. For example, if you choose stored procedure+=
+trigger, explain how this choice is suitable for your application.&nbsp;</p=
+></li>
+<li><p>How did the creative element add extra value to your application?</p=
+></li>
+<li><p>How would you want to further improve your application? In terms of =
+database design and system optimization?</p></li>
+<li><p>What were the challenges you faced when implementing and designing t=
+he application? How was it the same/different from the original design?</p>=
+</li>
+<li><p>If you were to include a NoSQL database, how would you incorporate i=
+t into your application?</p></li>
+</ol></li>
+</ol>
+<h2 id=3D"ProjectTrack1-Stage6:ProjectReportandDemoVideo(10%)">Stage 6: Pro=
+ject Report and Demo Video (10%)&nbsp;</h2>
+<p>For this stage, your team is expected to submit the final project delive=
+rables, including the final project report and video demo.&nbsp;Simply link=
+ or attach your final report to your project homepage in the Documents fiel=
+d. &nbsp;</p>
+<ol>
+<li><p>Create a report with the following topics. The report would be grade=
+d by completeness and correctness.&nbsp;</p>
+<ol>
+<li><p>Briefly describe what the project accomplished.</p></li>
+<li><p>Discuss the usefulness of your project, i.e. what real problem you s=
+olved.</p></li>
+<li><p>Discuss the data in your database.</p></li>
+<li><p>Include your&nbsp;updated&nbsp;ER/UML Diagram.</p></li>
+<li><p>Include your final database schema (DDLs) and index design analysis.=
+</p></li>
+<li><p>Briefly discuss from where you collected data and how you did it (if=
+ crawling is automated, explain how and what tools were used).</p></li>
+<li><p>Briefly discuss your application design and the features involved. C=
+learly list the functionality of your application (feature specs).</p></li>
+<li><p>Include your advanced database program.&nbsp;Discuss your choice for=
+ the advanced database program and how it is suitable for your application.=
+ For example, if you choose transaction+trigger, explain how this choice is=
+ suitable for your application, the isolation level of your transaction, et=
+c.&nbsp;</p></li>
+<li><p>List and briefly explain the dataflow, i.e. the steps that occur bet=
+ween a user entering the data on the screen and the output that occurs (you=
+ can insert a set of screenshots).</p></li>
+<li><p>Describe one technical challenge that the team encountered.&nbsp; Th=
+is should be sufficiently detailed such that another future team could use =
+this as helpful advice if they were to start a similar project or where to =
+maintain your project. Say you created a very robust crawler - share your k=
+nowledge. You learned how to visualize a graph and make an interactive inte=
+rface for it - teach all! Know how to minimize time building a mobile app -=
+ describe!</p></li>
+<li><p>State if everything went according to the initial development plan a=
+nd proposed specifications, if not - why?!</p></li>
+<li><p>Describe the final division of labor and how well you managed teamwo=
+rk.&nbsp;</p></li>
+</ol></li>
+<li><p>The video should be between 2-5 minutes long (7 minutes is the absol=
+ute max). Make it fun. Think of it as your chance to advertise to your proj=
+ect and/or investors to find it promising?</p></li>
+</ol>
+<p><strong>Rubric:</strong>&nbsp;This stage is worth 10%. You are graded by=
+ completeness, correctness. The rubric is as follows:</p>
+<ol>
+<li><p>Each missing section of the report (-1%)</p></li>
+<li>Missing video (-2%)</li>
+<li><p>Too short, too long video (-1%)</p></li>
+<li><p>The video does not provide a comprehensive overview of the applicati=
+on (-2%)</p></li>
+<li><p>The report is not well-written or does not provide enough details (-=
+4%)</p></li>
+</ol>
+    </div>
+</body>
+</html>
+------=_Part_72022_1239933101.1634338963636--
