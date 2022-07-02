@@ -45,7 +45,7 @@ npm start
 
 ## Back-end
 
-go into the directory /backend
+go into the directory /sportgather
 ```shell
 mvn spring-boot:run
 ```
