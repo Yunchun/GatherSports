@@ -1,4 +1,6 @@
 # GatherSports
+## Video Demo:
+https://www.youtube.com/watch?v=Xby9c__khGg&feature=youtu.be&ab_channel=YunchunPan
 ## Introduction
 GATHERSPORTS is an application developed for CS 411 Database System taken for my Master of Computer Science degree at UIUC. This platform is a sports experience system that connects sports mates with similar sports interests, so that people have more incentives to exercise.
 ## Functionalities
@@ -10,8 +12,7 @@ GATHERSPORTS is an application developed for CS 411 Database System taken for my
 - enroll in interested courses
 - send out messages in the system
 ## Tools & Programming languages
-- Database: MySQL, Google Cloud Platform
-- Backend: Java, SprintBoot
-- Frontend: JavaScript, React.js
-## Video Demo:
-https://www.youtube.com/watch?v=Xby9c__khGg&feature=youtu.be&ab_channel=YunchunPan
+- Database: MySQL
+- Backend: SprintBoot, MyBatis
+- Frontend: React.js
+- Supported Cloud: Google Cloud Platform, Firebase
