@@ -37,7 +37,7 @@ GATHERSPORTS is an application developed for CS 411 Database System taken for my
 
 ## Front-end
 
-go into the directory /frontend
+go into the directory /src
 ```shell
 npm install
 npm start
