@@ -23,6 +23,7 @@ GATHERSPORTS is an application developed for CS 411 Database System taken for my
 - Database: MySQL
 - Backend: SprintBoot, MyBatis
 - Frontend: React.js
+- Cache: Redis
 - Supported Cloud: Google Cloud Platform, Firebase
 
 # How to run
@@ -37,7 +38,7 @@ GATHERSPORTS is an application developed for CS 411 Database System taken for my
 
 ## Front-end
 
-go into the directory /src
+go into the directory /frontend
 ```shell
 npm install
 npm start
@@ -45,7 +46,7 @@ npm start
 
 ## Back-end
 
-go into the directory /sportgather
+go into the directory /backend
 ```shell
 mvn spring-boot:run
 ```
