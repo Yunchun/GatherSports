@@ -24,3 +24,28 @@ GATHERSPORTS is an application developed for CS 411 Database System taken for my
 - Backend: SprintBoot, MyBatis
 - Frontend: React.js
 - Supported Cloud: Google Cloud Platform, Firebase
+
+# How to run
+
+## Libraries
+
+* [Java 17 SDK](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+* [Maven](https://maven.apache.org/)
+* [Redis](https://redis.io/)
+* [MySQL](https://www.mysql.com/downloads/)
+* [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+
+## Front-end
+
+go into the directory /frontend
+```shell
+npm install
+npm start
+```
+
+## Back-end
+
+go into the directory /backend
+```shell
+mvn spring-boot:run
+```
