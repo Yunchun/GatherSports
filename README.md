@@ -3,7 +3,7 @@
 https://www.youtube.com/watch?v=Xby9c__khGg&feature=youtu.be&ab_channel=YunchunPan
 ## Introduction
 
-GatherSports is an application developed for CS 411 Database System taken for my Master of Computer Science degree at UIUC. This platform is a sports experience system that connects sports mates with similar sports interests, helps with court reservation, and support online course registration. Therefore, people have more incentives to exercise.
+GatherSports is an application developed for CS 411 Database System taken for my Master of Computer Science degree at UIUC. This platform is a sports experience system that connects sports mates with similar sports interests, helps with court reservation, and supports online course registration. Therefore, people have more incentives to exercise.
 
 <img src=doc/friends_connect.png  width=78% />
 
